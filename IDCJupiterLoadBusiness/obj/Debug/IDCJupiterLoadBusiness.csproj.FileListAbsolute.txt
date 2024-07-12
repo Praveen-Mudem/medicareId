@@ -1,0 +1,13 @@
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadBusiness.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadBusiness.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadCommon.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadDB.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadModel.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadCommon.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadDB.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\bin\Debug\IDCJupiterLoadModel.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\obj\Debug\IDCJupiterLoadBusiness.csprojAssemblyReference.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\obj\Debug\IDCJupiterLoadBusiness.csproj.CoreCompileInputs.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\obj\Debug\IDCJupiterLoadBusiness.csproj.CopyComplete
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\obj\Debug\IDCJupiterLoadBusiness.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadBusiness\obj\Debug\IDCJupiterLoadBusiness.pdb

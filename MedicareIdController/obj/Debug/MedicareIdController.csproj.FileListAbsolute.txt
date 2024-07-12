@@ -1,0 +1,6 @@
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\bin\Debug\MedicareIdController.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\bin\Debug\MedicareIdController.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\obj\Debug\MedicareIdController.csprojAssemblyReference.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\obj\Debug\MedicareIdController.csproj.CoreCompileInputs.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\obj\Debug\MedicareIdController.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\MedicareIdController\obj\Debug\MedicareIdController.pdb

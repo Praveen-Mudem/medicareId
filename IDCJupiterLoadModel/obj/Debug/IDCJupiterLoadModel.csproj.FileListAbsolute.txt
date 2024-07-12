@@ -1,0 +1,6 @@
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\bin\Debug\IDCJupiterLoadModel.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\bin\Debug\IDCJupiterLoadModel.pdb
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\obj\Debug\IDCJupiterLoadModel.csprojAssemblyReference.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\obj\Debug\IDCJupiterLoadModel.csproj.CoreCompileInputs.cache
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\obj\Debug\IDCJupiterLoadModel.dll
+C:\Users\WS_PRAVEEN\source\repos\idc_costshare_jupiter_api\IDCJupiterLoadModel\obj\Debug\IDCJupiterLoadModel.pdb
